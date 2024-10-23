@@ -45,3 +45,4 @@ Python: Jupyter Notebook, pandas
 - *setting index* - https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.set_index.html
 - *copy column values regarding index column* - https://stackoverflow.com/questions/41260764/python-pandas-how-to-copy-column-values-regarding-an-index-column
 - *Class_Material 19-1-3* - segmenting_customers_solution
+- *Class_Material 19-1-5* - finding_k_solution
