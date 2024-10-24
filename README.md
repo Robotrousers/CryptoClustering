@@ -2,11 +2,6 @@
 ## CryptoClustering
 #### Using unsupervised learning to predict if cryptocurrencies are affected by 24-hour or 7-day price changes
 
-
-### Introduction
-In this challenge, you'll use your knowledge of Python and unsupervised learning to predict if cryptocurrencies are affected by 24-hour or 7-day price changes.
-
-
 ### Challenge Guidelines:
 - Find the Best Value for k by Using the Scaled DataFrame
 - Cluster the Cryptocurrencies with K-Means by Using the Scaled DataFrame
