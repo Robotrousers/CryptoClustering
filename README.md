@@ -4,23 +4,19 @@
 
 
 ### Introduction
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX 
-
-
-### Project Scope and Criteria
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+In this challenge, you'll use your knowledge of Python and unsupervised learning to predict if cryptocurrencies are affected by 24-hour or 7-day price changes.
 
 
 ### Challenge Guidelines:
-- XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-- XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-- XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-
-#### Key Metrics in this data
-    - XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-    - XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-    - XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+- Find the Best Value for k by Using the Scaled DataFrame
+- Cluster the Cryptocurrencies with K-Means by Using the Scaled DataFrame
+- Optimize the Clusters with Principal Component Analysis
+- Find the Best Value for k by Using the PCA DataFrame
+- Cluster the Cryptocurrencies with K-means by Using the PCA DataFrame
+- Visualize and Compare the Results
+- Coding Conventions and Formatting
+- Deployment and Submission
+- Code Comments
     
 
 ### Proposed Technologies:
