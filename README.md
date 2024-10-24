@@ -46,3 +46,4 @@ Python: Jupyter Notebook, pandas
 - *copy column values regarding index column* - https://stackoverflow.com/questions/41260764/python-pandas-how-to-copy-column-values-regarding-an-index-column
 - *Class_Material 19-1-3* - segmenting_customers_solution
 - *Class_Material 19-1-5* - finding_k_solution
+- *Class_Material 19-3-5* - segmenting_with_pca_solution
