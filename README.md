@@ -47,4 +47,4 @@ Python: Jupyter Notebook, pandas
 - *Class_Material 19-1-3* - segmenting_customers_solution
 - *Class_Material 19-1-5* - finding_k_solution
 - *Class_Material 19-3-5* - segmenting_with_pca_solution
-- *composit plots - *https://holoviz.org/tutorial/Composing_Plots.html
+- *composit plots* - https://holoviz.org/tutorial/Composing_Plots.html
